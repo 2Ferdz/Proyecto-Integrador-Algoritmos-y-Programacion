@@ -294,7 +294,7 @@ namespace Empresa_Constructora
 		    grupoDisponible.AsignarAObra(obra.CodigoObra);
 		}
         
-		// Modifica el avance porcentual de una obra, y mueve a finalizadas si alcanza 100%.
+		// Modifica el avance porcentual de una obra. Mueve a finalizadas si alcanza 100% o mueve a Ejecución si es menor a 100%.
         public void ModificarAvanceObra(int codigoObra, double nuevoAvance)
         {
             Obra obra = null;
