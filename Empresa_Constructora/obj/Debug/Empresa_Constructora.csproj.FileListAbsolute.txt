@@ -1,0 +1,12 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa_Constructora\Empresa_Constructora\bin\Debug\Empresa_Constructora.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa_Constructora\Empresa_Constructora\bin\Debug\Empresa_Constructora.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa_Constructora\Empresa_Constructora\obj\Debug\Empresa_Constructora.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa_Constructora\Empresa_Constructora\obj\Debug\Empresa_Constructora.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Empresa_Constructora\Empresa_Constructora\obj\Debug\Empresa_Constructora.pdb
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\obj\Debug\Empresa_Constructora.exe
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\obj\Debug\Empresa_Constructora.pdb
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\bin\Debug\Empresa_Constructora.exe.config
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\bin\Debug\Empresa_Constructora.exe
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\bin\Debug\Empresa_Constructora.pdb
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\obj\Debug\Empresa_Constructora.csproj.AssemblyReference.cache
+D:\-Ferdz-\Universidad\Ferdz UNAJ\-[2º Año.2025]- [1º Cuatrimestre]\Algoritmos y Programación\Actividades\[3] Proyecto Final\[Proyecto Final] Constructora (2)\Empresa_Constructora\obj\Debug\Empresa_Constructora.csproj.CoreCompileInputs.cache
